@@ -1,5 +1,8 @@
 # MCP-Archive
-An archive of ModCoderPack sources for Minecraft 1.5 - 1.6.4
+An archive of ModCoderPack sources for Minecraft 1.0 - 1.7.9
+
+# Help
+Since most of the MCP sources used to be hosted on mediafire or ad.fly, there is a high chance that they been taken down years ago with no going back. Please help and contribute with archiving Minecraft for the future.
 
 # Why?
 In the past few months, it's been harder for me to find older sources of older Minecraft versions, so I have searched and found some sources left.
